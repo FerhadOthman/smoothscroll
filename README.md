@@ -27,6 +27,7 @@ to : position like `200` or element id `'#home'`
     right: 1rem;
   }
 </style>
+
 <div class="navbar">
   <button onclick="scrollToElement(event,0)">Home</button>
   <button onclick="scrollToElement(event,'#news')">News</button>
@@ -36,7 +37,6 @@ to : position like `200` or element id `'#home'`
 <h1 class="section" id="news">News</h1>
 <h1 class="section" id="1500">Description</h1>
 <button onclick="scrollToElement(event,0)" class="to-top">To Top</button>
-
 
 <script src="smoothScroll.min.js"></script>
 <script>
