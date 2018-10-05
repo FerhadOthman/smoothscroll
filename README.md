@@ -1,4 +1,4 @@
-# Smoothscroll
+# SmoothScroll
 ## Usage
 `smoothScroll(to, duration)`
 to : position like `200` or element id `'#home'`
