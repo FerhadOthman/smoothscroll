@@ -1,9 +1,9 @@
-# smoothscroll
-### usage
+# Smoothscroll
+## Usage
 `smoothScroll(to, duration)`
 to : position like `200` or element id `'#home'`
 
-#### Example:
+### Example:
 ```html
 <style>
   body {
